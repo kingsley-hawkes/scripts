@@ -1,5 +1,4 @@
-
-       #!/bin/bash 
+#!/bin/bash 
       
 #get info about networking from the ifconfig command 
       
