@@ -1,4 +1,7 @@
 #!/bin/bash 
+
+#Modified script using 'sed' to substitute all occurances of 'right' with 'correct.'
+#Yes this is the opposite of step 3 in 5.3.
       
 #This function prints a given error 
       
@@ -40,7 +43,7 @@ guessNumber "please type a number between 1 and 100" 1 100
     if [[ $REPLY -eq 42 ]]; then
 	
 
-        echo "That's right!"
+        echo "That's correct!"
 	
 
     elif [[ $REPLY -gt 42 ]]; then
@@ -66,7 +69,7 @@ done
 #	guessNumber "Please type a number between 1 and 100" 1 100
 #
 #	if [ $1 -eq 42 ]; then
-#		echo "That's right!"
+#		echo "That's correct!"
 #       elif [ $1 -lt 42 ]; then
 #                echo "Too low!"
 #        elif [ $REPLY -gt 42 ]; then
