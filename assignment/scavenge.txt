@@ -1,9 +1,9 @@
-12 Feb 2022 - Alert status: CRITICAL
+12 Feb 2022: Alert status: CRITICAL
 Critical vulnerability identified in Apple iOS and macOS
 A Remote Code Execution vulnerability has been identified in certain versions
 of Apple WebKit, affecting iOS and macOS devices. Affected users of these
 devices should update their devices as soon as possible.
-11 Feb 2022 - Alert status: HIGH
+11 Feb 2022: Alert status: HIGH
 Critical vulnerability present in SAP Internet Communication Manager
 A vulnerability has been identified in SAP Internet Communication Manager
 (ICM), a component of many SAP products, which may allow full system takeover.
@@ -14,25 +14,25 @@ This joint Cybersecurity Advisoryâauthored by cybersecurity authorities in
 the United States, Australia, and the United Kingdomâprovides observed
 behaviors and trends as well as mitigation recommendations to help network
 defenders reduce their risk of compromise by ransomware.
-10 Feb 2022 - Alert status: MEDIUM
+10 Feb 2022: Alert status: MEDIUM
 Increased Global Ransomware Threats
 In 2021, cybersecurity authorities in the United States, Australia, and the
 United Kingdom observed an increase in sophisticated, high-impact ransomware
 incidents against critical infrastructure organizations globally
-04 Feb 2022 - Alert status: HIGH
+04 Feb 2022: Alert status: HIGH
 Remote code execution vulnerability present in Samba versions prior to 4.13.17
 A vulnerability (CVE-2021-44142) has been identified in Samba versions prior to
 4.13.17. Exploitation of this vulnerability could allow a malicious cyber actor
 to perform privileged remote code execution. Affected Australian organisations
 should apply the available patch, including affected software vendors.
-19 Jan 2022 - Alert status: HIGH
+19 Jan 2022: Alert status: HIGH
 Remote code execution vulnerability present in SonicWall SMA 100 series
 appliances
 A vulnerability (CVE-2021-20038) has been identified in SonicWall SMA 100
 series appliances. Exploitation of this vulnerability could allow an
 unauthenticated malicious cyber actor to perform remote code execution.
 Affected Australian organisations should apply the available patch.
-19 Jan 2022 - Alert status: MEDIUM
+19 Jan 2022: Alert status: MEDIUM
 Phone and email scammers impersonating the ACSC
 The Australian government will NEVER phone you to request access to your
 computer, or request you to purchase cryptocurrencies or gift cards. If you
@@ -46,7 +46,7 @@ in versions of the Log4j Java logging library. Malicious cyber actors are using
 this vulnerability to target and compromise systems globally and in Australia.
 The ACSC is working with a significant number of victims and affected vendors
 across all sectors of the economy.
-23 Dec 2021 - Alert status: HIGH
+23 Dec 2021: Alert status: HIGH
 Use of Log4j vulnerabilities in ransomware activity
 The ACSC expects an increase in ransomware activity using Log4j as an exploit
 vector. Malicious actors may take advantage of trivial exploits to impact
@@ -58,7 +58,7 @@ Log4Shell, CVE-2021-45046, and CVE-2021-45105 in vulnerable systems. According
 to public reporting, Log4Shell and CVE-2021-45046 are being actively exploited.
 This joint Cybersecurity Advisory is to provide mitigation guidance on
 addressing vulnerabilities.
-21 Dec 2021 - Alert status: CRITICAL
+21 Dec 2021: Alert status: CRITICAL
 Critical remote code execution vulnerability found in the Log4j library
 A vulnerability (CVE-2021-44228) exists in certain versions of the Log4j
 library. A malicious cyber actor could exploit this vulnerability to execute
@@ -73,11 +73,11 @@ as-a-Service (RaaS), enabling affiliates to utilise it as desired, provided
 that a percentage of the ransom payment is shared with the Conti operators as
 commission. This product provides information related to Contiâs background,
 threat activity, and mitigation advice.
-10 Dec 2021 - Alert status: MEDIUM
+10 Dec 2021: Alert status: MEDIUM
 Conti ransomware incidents in Australia
 Multiple Australian organisations have been impacted by Conti ransomware in
 November and December 2021.
-08 Dec 2021 - Alert status: HIGH
+08 Dec 2021: Alert status: HIGH
 Zoho ManageEngine ServiceDesk Plus & Desktop Central remote code execution
 vulnerabilities
 Vulnerabilities have been identified in certain versions of Zoho ManageEngine
@@ -90,59 +90,59 @@ Iranian government-sponsored APT actors are actively targeting a broad range of
 victims across multiple U.S. critical infrastructure sectors, including the
 Transportation Sector and the Healthcare and Public Health Sector, as well as
 Australian organizations.
-17 Nov 2021 - Alert status: CRITICAL
+17 Nov 2021: Alert status: CRITICAL
 Iranian Government-Sponsored APT Cyber Actors
 FBI and CISA have observed an Iranian government-sponsored APT group that are
 exploiting vulnerabilities to gain access to systems. The APT group has
 exploited the same Microsoft Exchange vulnerability in Australia.
-11 Nov 2021 - Alert status: CRITICAL
+11 Nov 2021: Alert status: CRITICAL
 Critical vulnerability present in certain versions of Microsoft Excel
 Microsoft has identified active exploitation of a vulnerability in Microsoft
 Excel. Affected Australian organisations should apply the available security
 update as soon as possible.
-11 Nov 2021 - Alert status: HIGH
+11 Nov 2021: Alert status: HIGH
 Remote code execution vulnerability present in certain versions of Palo Alto
 firewalls utilising the GlobalProtect VPN component
 A vulnerability has been identified in certain versions of Palo Alto firewalls
 utilising the GlobalProtect VPN component. Affected Australian organisations
 should apply the available update as soon as possible.
-05 Nov 2021 - Alert status: CRITICAL
+05 Nov 2021: Alert status: CRITICAL
 Active exploitation of vulnerable Sitecore Experience Platform content
 management systems
 There is active exploitation of a vulnerability occurring in certain versions
 of Sitecore Experience Platform systems. Affected Australian organisation
 should apply the available security update.
-13 Oct 2021 - Alert status: HIGH
+13 Oct 2021: Alert status: HIGH
 Critical vulnerability present in certain versions of Apple iOS and iPadOS
 A vulnerability has been identified in certain Apple products which could allow
 an actor to install malware or perform other actions on a vulnerable device.
-13 Oct 2021 - Alert status: HIGH
+13 Oct 2021: Alert status: HIGH
 Multiple key vulnerabilities identified in Microsoft products
 Multiple key vulnerabilities were identified in Microsoftâs 12 October 2021
 patch release. While all vulnerabilities addressed in this release are
 important to mitigate the ACSC wishes to highlight several vulnerabilities for
 priority consideration.
-08 Oct 2021 - Alert status: CRITICAL
+08 Oct 2021: Alert status: CRITICAL
 Critical vulnerability in certain versions of Apache HTTP Server
 A vulnerability exists in Apache HTTP Server 2.4.49. A cyber actor could
 exploit this vulnerability to execute arbitrary code. Initial information also
 indicates that the vulnerability could also be used perform remote code
 execution under certain configurations. Affected Australian organisations
 should apply the available patch.
-24 Sep 2021 - Alert status: HIGH
+24 Sep 2021: Alert status: HIGH
 Critical vulnerability in ManageEngine ADSelfService Plus exploited by cyber
 actors
 A vulnerability exists in certain versions of ManageEngine ADSelfService Plus.
 A cyber actor could exploit this vulnerability to execute arbitrary code,
 potentially enabling the actor to take control of the vulnerable host. Affected
 Australian organisations should apply the available security update.
-22 Sep 2021 - Alert status: CRITICAL
+22 Sep 2021: Alert status: CRITICAL
 Critical vulnerability in certain Hikvision products, IP cameras
 A critical vulnerability exists in Hikvision products, including IP cameras,
 which could allow a cyber actor to take full control of the device. Affected
 Australian customers should apply an appropriate firmware update provided by
 Hikvision.
-16 Sep 2021 - Alert status: CRITICAL
+16 Sep 2021: Alert status: CRITICAL
 Remote code execution vulnerability present in Open Management Infrastructure,
 affects certain Microsoft Azure services
 A remote code execution vulnerability exists in Open Management Infrastructure,
@@ -150,14 +150,14 @@ a management agent used in certain Linux-based Microsoft Azure services.
 Exploitation of this vulnerability could allow a malicious actor to take
 control of the vulnerable host. Affected organisations should apply the
 available security update.
-16 Sep 2021 - Alert status: HIGH
+16 Sep 2021: Alert status: HIGH
 Remote code execution vulnerability present in the Windows Scripting Engine of
 Microsoft Windows
 A vulnerability exists in a component of Microsoft Windows. A malicious cyber
 actor could exploit this vulnerability to execute arbitrary code, potentially
 enabling the actor to take control of the vulnerable host. Affected Australian
 customers should apply the security update provided by Microsoft.
-14 Sep 2021 - Alert status: HIGH
+14 Sep 2021: Alert status: HIGH
 Remote code execution vulnerability present in the MSHTML component of
 Microsoft Windows
 A vulnerability exists in a component of Microsoft Windows. A malicious cyber
@@ -165,26 +165,26 @@ actor could exploit this vulnerability to execute arbitrary code, potentially
 enabling the actor to take control of the vulnerable host. At this current time
 there is no patch available, affected Australian customers should apply the
 Microsoft recommended workarounds.
-14 Sep 2021 - Alert status: HIGH
+14 Sep 2021: Alert status: HIGH
 Critical vulnerabilities present in certain versions of Apple iOS, macOS and
 Safari
 Vulnerabilities have been identified in certain versions of Apple iOS, macOS
 and Safari which could allow an actor to install malware or perform other
 actions on a vulnerable device or computer.
-10 Sep 2021 - Alert status: MEDIUM
+10 Sep 2021: Alert status: MEDIUM
 Suspected user credentials stolen from FortiNet devices leaked online
 A malicious cyber actor has leaked a list of suspected user credentials and IP
 address of the associated FortiNet SSL VPN device the credentials are used for.
 Organisations should review the patch status and history of internet exposed
 FortiNet SSL VPN devices and consider performing a password reset for affected
 users.
-01 Sep 2021 - Alert status: HIGH
+01 Sep 2021: Alert status: HIGH
 Remote code execution vulnerability present in certain versions of Atlassian
 Confluence
 A vulnerability exists in certain self-hosted versions of Atlassian Confluence
 which could allow a malicious cyber actor to execute arbitrary code. Affected
 organisations should apply the available patch to mitigate this vulnerability.
-30 Aug 2021 - Alert status: MEDIUM
+30 Aug 2021: Alert status: MEDIUM
 Property-related business email compromise scams rising in Australia
 Cybercriminals are targeting the property and real estate sector to conduct
 business email compromise scams. All parties involved in the buying, selling
@@ -200,29 +200,29 @@ REvil ransomware, Kronos, or CobaltStrike. The ACSC is providing this
 information to enable organisations to undertake their own risk assessments and
 take appropriate actions to secure their systems and networks. The ACSC will
 update this advisory if more information becomes available.
-27 Aug 2021 - Alert status: MEDIUM
+27 Aug 2021: Alert status: MEDIUM
 Malicious actors deploying Gootkit Loader on Australian Networks
 ACSC has observed an increase of Gootkit JavaScript (JS) Loaders on Australian
 networks.
-19 Aug 2021 - Alert status: HIGH
+19 Aug 2021: Alert status: HIGH
 Microsoft Exchange ProxyShell Targeting in Australia
 The ACSC has observed targeting of the Microsoft Exchange ProxyShell
 vulnerability by Malicious actors.
-18 Aug 2021 - Alert status: HIGH
+18 Aug 2021: Alert status: HIGH
 Vulnerability Affecting BlackBerry QNX RTOS
 BlackBerry has disclosed that its QNX Real Time Operating System is affected by
-a BadAlloc vulnerability - CVE-2021-22156. QNX is the worldâs most prevalent
+a BadAlloc vulnerability: CVE-2021-22156. QNX is the worldâs most prevalent
 real time operating system.
 17 Aug 2021
 Vulnerability Affecting BlackBerry QNX RTOS
 The ACSC is aware of a vulnerability affecting the BlackBerry QNX, the
 worldâs most prevalent real time operating system.
-05 Aug 2021 - Alert status: MEDIUM
+05 Aug 2021: Alert status: MEDIUM
 LockBit 2.0 ransomware incidents in Australia
 ACSC has observed an increase in reporting of LockBit 2.0 ransomware incidents
 in Australia.
 05 Aug 2021
-2021-006: ACSC Ransomware Profile - Lockbit 2.0
+2021-006: ACSC Ransomware Profile: Lockbit 2.0
 The LockBit ransomware restricts access to corporate files and systems by
 encrypting them into a locked and unusable format. Victims receive instructions
 on how to engage with the offenders after encryption. LockBit affiliates have
@@ -232,12 +232,12 @@ since 2020. LockBit affiliates are known to implement the âdouble
 extortionâ technique by uploading stolen and sensitive victim information to
 their dark web site âLockBit 2.0â, and threatening to sell and/or release
 this information if their ransom demands are not met.
-03 Aug 2021 - Alert status: HIGH
+03 Aug 2021: Alert status: HIGH
 SonicWall devices targeted with ransomware utilising stolen credentials
 SonicWall devices are being targeted by a malicious cyber actor as targets for
 ransomware. The ACSC is aware of likely related activity targeting Australian
 organisations.
-12 Jul 2021 - Alert status: HIGH
+12 Jul 2021: Alert status: HIGH
 Kaseya VSA Supply-Chain Ransomware Attack
 Patch now available for Kaseya VSA platform.
 09 Jul 2021
@@ -254,39 +254,39 @@ organisations that this vulnerability was being actively exploited. This ACSC
 advisory provides recommendations for securing ForgeRock AM against
 vulnerability CVE-2021-35464, and advice on identifying potential successful
 exploitation of this vulnerability.
-07 Jul 2021 - Alert status: HIGH
+07 Jul 2021: Alert status: HIGH
 ForgeRock Open AM critical vulnerability
 The ACSC has observed active exploitation of a vulnerability in ForgeRock
 OpenAM (reported as CVE-2021-35464) against a number of Australian
 organisations. The ACSC strongly recommends organisations urgently apply
 available patches or workarounds to mitigate the risk of this vulnerability
 being exploited.
-06 Jul 2021 - Alert status: MEDIUM
+06 Jul 2021: Alert status: MEDIUM
 Cybercriminals targeting construction companies to conduct email scams
 Cybercriminals are targeting construction companies to conduct business email
 compromise scams. All parties to construction projects should be vigilant when
 emailing about invoices and bank details.
-30 Jun 2021 - Alert status: LOW
+30 Jun 2021: Alert status: LOW
 Microsoft Releases Security Updates for Microsoft Edge Browser
 On June 24, 2021 Microsoft released updates for their Edge Browser addressing
 two vulnerabilities that an attacker could exploit to inject and execute
 malicious code.
-21 Jun 2021 - Alert status: HIGH
+21 Jun 2021: Alert status: HIGH
 Google Releases Security Updates for Chrome Browser
 On June 17, 2021 Google released Chrome version 91.0.4472.114 for Windows, Mac,
 and Linux. The patch notes for this version can be viewed at Chrome Release
 Note.
-13 May 2021 - Alert status: HIGH
+13 May 2021: Alert status: HIGH
 Critical vulnerability discovered in HTTP.SYS in Microsoft Windows
 A remote code execution vulnerability could enable a malicious cyber actor to
 compromise vulnerable Microsoft Windows hosts. The ACSC strongly recommends
 applying available patches.
-10 May 2021 - Alert status: HIGH
+10 May 2021: Alert status: HIGH
 Multiple high severity vulnerabilities discovered in the Exim mail server
 Exim vulnerabilities could enable a malicious cyber actor to compromise
 vulnerable Exim servers. The ACSC strongly recommends applying available
 patches.
-08 May 2021 - Alert status: HIGH
+08 May 2021: Alert status: HIGH
 Avaddon Ransomware
 Increase in Avaddon ransomware attacks in Australia.
 08 May 2021
@@ -298,7 +298,7 @@ provides details of Avaddon threat actors, dark web activity, targeted
 countries and sectors, the malware infection chain, and known Techniques,
 Tools, and Procedures (TTPs). If activity is identified relating to this
 advisory please report any findings to the ACSC.
-27 Apr 2021 - Alert status: HIGH
+27 Apr 2021: Alert status: HIGH
 Potential exploitation of Click Studioâs PasswordState software
 On 24 April 2021, Australian software company Click Studios announced a
 compromise of the software update process for their enterprise password

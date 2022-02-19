@@ -6,7 +6,7 @@ curl 'https://www.cyber.gov.au/acsc/view-all-content/alerts&advisories' |
 html2text | 
 sed -n '/12_Feb_2022_-_Alert_status:_CRITICAL/,$p' |
 sed -n '/Pagination/q;p' |
-sed 's/_/ /g' > scavenge.txt
+sed 's/_/ /g; s/ - /: /g' > scavenge.txt
 
 
 # code addapted from t. Mester (2020).
