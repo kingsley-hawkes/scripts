@@ -1,0 +1,51 @@
+Date        |Alert Status|Description
+|12 Feb 2022| CRITICAL   |
+|11 Feb 2022| HIGH       |
+|10 Feb 2022|            |
+|10 Feb 2022| MEDIUM     |
+|04 Feb 2022| HIGH       |
+|19 Jan 2022| HIGH       |
+|19 Jan 2022| MEDIUM     |
+|29 Dec 2021|            |
+|23 Dec 2021| HIGH       |
+|23 Dec 2021|            |
+|21 Dec 2021| CRITICAL   |
+|10 Dec 2021|            |
+|10 Dec 2021| MEDIUM     |
+|08 Dec 2021| HIGH       |
+|22 Nov 2021|            |
+|17 Nov 2021| CRITICAL   |
+|11 Nov 2021| CRITICAL   |
+|11 Nov 2021| HIGH       |
+|05 Nov 2021| CRITICAL   |
+|13 Oct 2021| HIGH       |
+|13 Oct 2021| HIGH       |
+|08 Oct 2021| CRITICAL   |
+|24 Sep 2021| HIGH       |
+|22 Sep 2021| CRITICAL   |
+|16 Sep 2021| CRITICAL   |
+|16 Sep 2021| HIGH       |
+|14 Sep 2021| HIGH       |
+|14 Sep 2021| HIGH       |
+|10 Sep 2021| MEDIUM     |
+|01 Sep 2021| HIGH       |
+|30 Aug 2021| MEDIUM     |
+|27 Aug 2021|            |
+|27 Aug 2021| MEDIUM     |
+|19 Aug 2021| HIGH       |
+|18 Aug 2021| HIGH       |
+|17 Aug 2021|            |
+|05 Aug 2021| MEDIUM     |
+|05 Aug 2021|            |
+|03 Aug 2021| HIGH       |
+|12 Jul 2021| HIGH       |
+|09 Jul 2021|            |
+|07 Jul 2021| HIGH       |
+|06 Jul 2021| MEDIUM     |
+|30 Jun 2021| LOW        |
+|21 Jun 2021| HIGH       |
+|13 May 2021| HIGH       |
+|10 May 2021| HIGH       |
+|08 May 2021| HIGH       |
+|08 May 2021|            |
+|27 Apr 2021| HIGH       |
