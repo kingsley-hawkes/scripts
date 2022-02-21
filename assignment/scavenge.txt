@@ -1,306 +1,783 @@
-12 Feb 2022: Alert status: CRITICAL
-Critical vulnerability identified in Apple iOS and macOS
-A Remote Code Execution vulnerability has been identified in certain versions
-of Apple WebKit, affecting iOS and macOS devices. Affected users of these
-devices should update their devices as soon as possible.
-11 Feb 2022: Alert status: HIGH
-Critical vulnerability present in SAP Internet Communication Manager
-A vulnerability has been identified in SAP Internet Communication Manager
-(ICM), a component of many SAP products, which may allow full system takeover.
-Affected organisations should apply the available security update.
-10 Feb 2022
-2021 Trends Show Increased Globalized Threat of Ransomware
-This joint Cybersecurity Advisoryâauthored by cybersecurity authorities in
-the United States, Australia, and the United Kingdomâprovides observed
-behaviors and trends as well as mitigation recommendations to help network
-defenders reduce their risk of compromise by ransomware.
-10 Feb 2022: Alert status: MEDIUM
-Increased Global Ransomware Threats
-In 2021, cybersecurity authorities in the United States, Australia, and the
-United Kingdom observed an increase in sophisticated, high-impact ransomware
-incidents against critical infrastructure organizations globally
-04 Feb 2022: Alert status: HIGH
-Remote code execution vulnerability present in Samba versions prior to 4.13.17
-A vulnerability (CVE-2021-44142) has been identified in Samba versions prior to
-4.13.17. Exploitation of this vulnerability could allow a malicious cyber actor
-to perform privileged remote code execution. Affected Australian organisations
-should apply the available patch, including affected software vendors.
-19 Jan 2022: Alert status: HIGH
-Remote code execution vulnerability present in SonicWall SMA 100 series
+12:Feb:2022:-:Alert:status::CRITICAL
+Critical:vulnerability:identified:in:Apple:iOS:and:macOS
+A:Remote:Code:Execution:vulnerability:has:been:identified:in:certain:versions
+of:Apple:WebKit,:affecting:iOS:and:macOS:devices.:Affected:users:of:these
+devices:should:update:their:devices:as:soon:as:possible.
+11:Feb:2022:-:Alert:status::HIGH
+Critical:vulnerability:present:in:SAP:Internet:Communication:Manager
+A:vulnerability:has:been:identified:in:SAP:Internet:Communication:Manager
+(ICM),:a:component:of:many:SAP:products,:which:may:allow:full:system:takeover.
+Affected:organisations:should:apply:the:available:security:update.
+10:Feb:2022
+2021:Trends:Show:Increased:Globalized:Threat:of:Ransomware
+This:joint:Cybersecurity:Advisoryâauthored:by:cybersecurity:authorities:in
+the:United:States,:Australia,:and:the:United:Kingdomâprovides:observed
+behaviors:and:trends:as:well:as:mitigation:recommendations:to:help:network
+defenders:reduce:their:risk:of:compromise:by:ransomware.
+10:Feb:2022:-:Alert:status::MEDIUM
+Increased:Global:Ransomware:Threats
+In:2021,:cybersecurity:authorities:in:the:United:States,:Australia,:and:the
+United:Kingdom:observed:an:increase:in:sophisticated,:high-impact:ransomware
+incidents:against:critical:infrastructure:organizations:globally
+04:Feb:2022:-:Alert:status::HIGH
+Remote:code:execution:vulnerability:present:in:Samba:versions:prior:to:4.13.17
+A:vulnerability:(CVE-2021-44142):has:been:identified:in:Samba:versions:prior:to
+4.13.17.:Exploitation:of:this:vulnerability:could:allow:a:malicious:cyber:actor
+to:perform:privileged:remote:code:execution.:Affected:Australian:organisations
+should:apply:the:available:patch,:including:affected:software:vendors.
+19:Jan:2022:-:Alert:status::HIGH
+Remote:code:execution:vulnerability:present:in:SonicWall:SMA:100:series
 appliances
-A vulnerability (CVE-2021-20038) has been identified in SonicWall SMA 100
-series appliances. Exploitation of this vulnerability could allow an
-unauthenticated malicious cyber actor to perform remote code execution.
-Affected Australian organisations should apply the available patch.
-19 Jan 2022: Alert status: MEDIUM
-Phone and email scammers impersonating the ACSC
-The Australian government will NEVER phone you to request access to your
-computer, or request you to purchase cryptocurrencies or gift cards. If you
-receive a suspicious phone call, take the caller's details, hang up and contact
-the company they claim to represent via official communication channels listed
-on their website. Never call a number provided by the scammer.
-29 Dec 2021
-2021-007: Log4j vulnerability â advice and mitigations
-On 10 December 2021, ACSC released an alert relating to a serious vulnerability
-in versions of the Log4j Java logging library. Malicious cyber actors are using
-this vulnerability to target and compromise systems globally and in Australia.
-The ACSC is working with a significant number of victims and affected vendors
-across all sectors of the economy.
-23 Dec 2021: Alert status: HIGH
-Use of Log4j vulnerabilities in ransomware activity
-The ACSC expects an increase in ransomware activity using Log4j as an exploit
-vector. Malicious actors may take advantage of trivial exploits to impact
-Australian organisations.
-23 Dec 2021
-Mitigating Log4Shell and Other Log4j-Related Vulnerabilities
-Malicious cyber actors are actively scanning networks to potentially exploit
-Log4Shell, CVE-2021-45046, and CVE-2021-45105 in vulnerable systems. According
-to public reporting, Log4Shell and CVE-2021-45046 are being actively exploited.
-This joint Cybersecurity Advisory is to provide mitigation guidance on
-addressing vulnerabilities.
-21 Dec 2021: Alert status: CRITICAL
-Critical remote code execution vulnerability found in the Log4j library
-A vulnerability (CVE-2021-44228) exists in certain versions of the Log4j
-library. A malicious cyber actor could exploit this vulnerability to execute
-arbitrary code. Australian organisations should apply latest patches
-immediately where Log4j is known to be used.
-10 Dec 2021
-Ransomware Profile: Conti
-Conti is a ransomware variant first observed in early 2020, used by
-cybercriminals to conduct ransomware attacks against multiple sectors and
-organisations worldwide, including Australia. Conti is offered as a Ransomware-
-as-a-Service (RaaS), enabling affiliates to utilise it as desired, provided
-that a percentage of the ransom payment is shared with the Conti operators as
-commission. This product provides information related to Contiâs background,
-threat activity, and mitigation advice.
-10 Dec 2021: Alert status: MEDIUM
-Conti ransomware incidents in Australia
-Multiple Australian organisations have been impacted by Conti ransomware in
-November and December 2021.
-08 Dec 2021: Alert status: HIGH
-Zoho ManageEngine ServiceDesk Plus & Desktop Central remote code execution
+A:vulnerability:(CVE-2021-20038):has:been:identified:in:SonicWall:SMA:100
+series:appliances.:Exploitation:of:this:vulnerability:could:allow:an
+unauthenticated:malicious:cyber:actor:to:perform:remote:code:execution.
+Affected:Australian:organisations:should:apply:the:available:patch.
+19:Jan:2022:-:Alert:status::MEDIUM
+Phone:and:email:scammers:impersonating:the:ACSC
+The:Australian:government:will:NEVER:phone:you:to:request:access:to:your
+computer,:or:request:you:to:purchase:cryptocurrencies:or:gift:cards.:If:you
+receive:a:suspicious:phone:call,:take:the:caller's:details,:hang:up:and:contact
+the:company:they:claim:to:represent:via:official:communication:channels:listed
+on:their:website.:Never:call:a:number:provided:by:the:scammer.
+29:Dec:2021
+2021-007::Log4j:vulnerability:â:advice:and:mitigations
+On:10:December:2021,:ACSC:released:an:alert:relating:to:a:serious:vulnerability
+in:versions:of:the:Log4j:Java:logging:library.:Malicious:cyber:actors:are:using
+this:vulnerability:to:target:and:compromise:systems:globally:and:in:Australia.
+The:ACSC:is:working:with:a:significant:number:of:victims:and:affected:vendors
+across:all:sectors:of:the:economy.
+23:Dec:2021:-:Alert:status::HIGH
+Use:of:Log4j:vulnerabilities:in:ransomware:activity
+The:ACSC:expects:an:increase:in:ransomware:activity:using:Log4j:as:an:exploit
+vector.:Malicious:actors:may:take:advantage:of:trivial:exploits:to:impact
+Australian:organisations.
+23:Dec:2021
+Mitigating:Log4Shell:and:Other:Log4j-Related:Vulnerabilities
+Malicious:cyber:actors:are:actively:scanning:networks:to:potentially:exploit
+Log4Shell,:CVE-2021-45046,:and:CVE-2021-45105:in:vulnerable:systems.:According
+to:public:reporting,:Log4Shell:and:CVE-2021-45046:are:being:actively:exploited.
+This:joint:Cybersecurity:Advisory:is:to:provide:mitigation:guidance:on
+addressing:vulnerabilities.
+21:Dec:2021:-:Alert:status::CRITICAL
+Critical:remote:code:execution:vulnerability:found:in:the:Log4j:library
+A:vulnerability:(CVE-2021-44228):exists:in:certain:versions:of:the:Log4j
+library.:A:malicious:cyber:actor:could:exploit:this:vulnerability:to:execute
+arbitrary:code.:Australian:organisations:should:apply:latest:patches
+immediately:where:Log4j:is:known:to:be:used.
+10:Dec:2021
+Ransomware:Profile::Conti
+Conti:is:a:ransomware:variant:first:observed:in:early:2020,:used:by
+cybercriminals:to:conduct:ransomware:attacks:against:multiple:sectors:and
+organisations:worldwide,:including:Australia.:Conti:is:offered:as:a:Ransomware-
+as-a-Service:(RaaS),:enabling:affiliates:to:utilise:it:as:desired,:provided
+that:a:percentage:of:the:ransom:payment:is:shared:with:the:Conti:operators:as
+commission.:This:product:provides:information:related:to:Contiâs:background,
+threat:activity,:and:mitigation:advice.
+10:Dec:2021:-:Alert:status::MEDIUM
+Conti:ransomware:incidents:in:Australia
+Multiple:Australian:organisations:have:been:impacted:by:Conti:ransomware:in
+November:and:December:2021.
+08:Dec:2021:-:Alert:status::HIGH
+Zoho:ManageEngine:ServiceDesk:Plus:&:Desktop:Central:remote:code:execution
 vulnerabilities
-Vulnerabilities have been identified in certain versions of Zoho ManageEngine
-ServiceDesk Plus and Desktop Central product suites. Australian organisations
-using vulnerable Zoho ManageEngine products should apply the available patch.
-22 Nov 2021
-Iranian Government-Sponsored APT Cyber Actors Exploiting Microsoft Exchange and
-Fortinet Vulnerabilities in Furtherance of Malicious Activities
-Iranian government-sponsored APT actors are actively targeting a broad range of
-victims across multiple U.S. critical infrastructure sectors, including the
-Transportation Sector and the Healthcare and Public Health Sector, as well as
-Australian organizations.
-17 Nov 2021: Alert status: CRITICAL
-Iranian Government-Sponsored APT Cyber Actors
-FBI and CISA have observed an Iranian government-sponsored APT group that are
-exploiting vulnerabilities to gain access to systems. The APT group has
-exploited the same Microsoft Exchange vulnerability in Australia.
-11 Nov 2021: Alert status: CRITICAL
-Critical vulnerability present in certain versions of Microsoft Excel
-Microsoft has identified active exploitation of a vulnerability in Microsoft
-Excel. Affected Australian organisations should apply the available security
-update as soon as possible.
-11 Nov 2021: Alert status: HIGH
-Remote code execution vulnerability present in certain versions of Palo Alto
-firewalls utilising the GlobalProtect VPN component
-A vulnerability has been identified in certain versions of Palo Alto firewalls
-utilising the GlobalProtect VPN component. Affected Australian organisations
-should apply the available update as soon as possible.
-05 Nov 2021: Alert status: CRITICAL
-Active exploitation of vulnerable Sitecore Experience Platform content
-management systems
-There is active exploitation of a vulnerability occurring in certain versions
-of Sitecore Experience Platform systems. Affected Australian organisation
-should apply the available security update.
-13 Oct 2021: Alert status: HIGH
-Critical vulnerability present in certain versions of Apple iOS and iPadOS
-A vulnerability has been identified in certain Apple products which could allow
-an actor to install malware or perform other actions on a vulnerable device.
-13 Oct 2021: Alert status: HIGH
-Multiple key vulnerabilities identified in Microsoft products
-Multiple key vulnerabilities were identified in Microsoftâs 12 October 2021
-patch release. While all vulnerabilities addressed in this release are
-important to mitigate the ACSC wishes to highlight several vulnerabilities for
-priority consideration.
-08 Oct 2021: Alert status: CRITICAL
-Critical vulnerability in certain versions of Apache HTTP Server
-A vulnerability exists in Apache HTTP Server 2.4.49. A cyber actor could
-exploit this vulnerability to execute arbitrary code. Initial information also
-indicates that the vulnerability could also be used perform remote code
-execution under certain configurations. Affected Australian organisations
-should apply the available patch.
-24 Sep 2021: Alert status: HIGH
-Critical vulnerability in ManageEngine ADSelfService Plus exploited by cyber
+Vulnerabilities:have:been:identified:in:certain:versions:of:Zoho:ManageEngine
+ServiceDesk:Plus:and:Desktop:Central:product:suites.:Australian:organisations
+using:vulnerable:Zoho:ManageEngine:products:should:apply:the:available:patch.
+22:Nov:2021
+Iranian:Government-Sponsored:APT:Cyber:Actors:Exploiting:Microsoft:Exchange:and
+Fortinet:Vulnerabilities:in:Furtherance:of:Malicious:Activities
+Iranian:government-sponsored:APT:actors:are:actively:targeting:a:broad:range:of
+victims:across:multiple:U.S.:critical:infrastructure:sectors,:including:the
+Transportation:Sector:and:the:Healthcare:and:Public:Health:Sector,:as:well:as
+Australian:organizations.
+17:Nov:2021:-:Alert:status::CRITICAL
+Iranian:Government-Sponsored:APT:Cyber:Actors
+FBI:and:CISA:have:observed:an:Iranian:government-sponsored:APT:group:that:are
+exploiting:vulnerabilities:to:gain:access:to:systems.:The:APT:group:has
+exploited:the:same:Microsoft:Exchange:vulnerability:in:Australia.
+11:Nov:2021:-:Alert:status::CRITICAL
+Critical:vulnerability:present:in:certain:versions:of:Microsoft:Excel
+Microsoft:has:identified:active:exploitation:of:a:vulnerability:in:Microsoft
+Excel.:Affected:Australian:organisations:should:apply:the:available:security
+update:as:soon:as:possible.
+11:Nov:2021:-:Alert:status::HIGH
+Remote:code:execution:vulnerability:present:in:certain:versions:of:Palo:Alto
+firewalls:utilising:the:GlobalProtect:VPN:component
+A:vulnerability:has:been:identified:in:certain:versions:of:Palo:Alto:firewalls
+utilising:the:GlobalProtect:VPN:component.:Affected:Australian:organisations
+should:apply:the:available:update:as:soon:as:possible.
+05:Nov:2021:-:Alert:status::CRITICAL
+Active:exploitation:of:vulnerable:Sitecore:Experience:Platform:content
+management:systems
+There:is:active:exploitation:of:a:vulnerability:occurring:in:certain:versions
+of:Sitecore:Experience:Platform:systems.:Affected:Australian:organisation
+should:apply:the:available:security:update.
+13:Oct:2021:-:Alert:status::HIGH
+Critical:vulnerability:present:in:certain:versions:of:Apple:iOS:and:iPadOS
+A:vulnerability:has:been:identified:in:certain:Apple:products:which:could:allow
+an:actor:to:install:malware:or:perform:other:actions:on:a:vulnerable:device.
+13:Oct:2021:-:Alert:status::HIGH
+Multiple:key:vulnerabilities:identified:in:Microsoft:products
+Multiple:key:vulnerabilities:were:identified:in:Microsoftâs:12:October:2021
+patch:release.:While:all:vulnerabilities:addressed:in:this:release:are
+important:to:mitigate:the:ACSC:wishes:to:highlight:several:vulnerabilities:for
+priority:consideration.
+08:Oct:2021:-:Alert:status::CRITICAL
+Critical:vulnerability:in:certain:versions:of:Apache:HTTP:Server
+A:vulnerability:exists:in:Apache:HTTP:Server:2.4.49.:A:cyber:actor:could
+exploit:this:vulnerability:to:execute:arbitrary:code.:Initial:information:also
+indicates:that:the:vulnerability:could:also:be:used:perform:remote:code
+execution:under:certain:configurations.:Affected:Australian:organisations
+should:apply:the:available:patch.
+24:Sep:2021:-:Alert:status::HIGH
+Critical:vulnerability:in:ManageEngine:ADSelfService:Plus:exploited:by:cyber
 actors
-A vulnerability exists in certain versions of ManageEngine ADSelfService Plus.
-A cyber actor could exploit this vulnerability to execute arbitrary code,
-potentially enabling the actor to take control of the vulnerable host. Affected
-Australian organisations should apply the available security update.
-22 Sep 2021: Alert status: CRITICAL
-Critical vulnerability in certain Hikvision products, IP cameras
-A critical vulnerability exists in Hikvision products, including IP cameras,
-which could allow a cyber actor to take full control of the device. Affected
-Australian customers should apply an appropriate firmware update provided by
+A:vulnerability:exists:in:certain:versions:of:ManageEngine:ADSelfService:Plus.
+A:cyber:actor:could:exploit:this:vulnerability:to:execute:arbitrary:code,
+potentially:enabling:the:actor:to:take:control:of:the:vulnerable:host.:Affected
+Australian:organisations:should:apply:the:available:security:update.
+22:Sep:2021:-:Alert:status::CRITICAL
+Critical:vulnerability:in:certain:Hikvision:products,:IP:cameras
+A:critical:vulnerability:exists:in:Hikvision:products,:including:IP:cameras,
+which:could:allow:a:cyber:actor:to:take:full:control:of:the:device.:Affected
+Australian:customers:should:apply:an:appropriate:firmware:update:provided:by
 Hikvision.
-16 Sep 2021: Alert status: CRITICAL
-Remote code execution vulnerability present in Open Management Infrastructure,
-affects certain Microsoft Azure services
-A remote code execution vulnerability exists in Open Management Infrastructure,
-a management agent used in certain Linux-based Microsoft Azure services.
-Exploitation of this vulnerability could allow a malicious actor to take
-control of the vulnerable host. Affected organisations should apply the
-available security update.
-16 Sep 2021: Alert status: HIGH
-Remote code execution vulnerability present in the Windows Scripting Engine of
-Microsoft Windows
-A vulnerability exists in a component of Microsoft Windows. A malicious cyber
-actor could exploit this vulnerability to execute arbitrary code, potentially
-enabling the actor to take control of the vulnerable host. Affected Australian
-customers should apply the security update provided by Microsoft.
-14 Sep 2021: Alert status: HIGH
-Remote code execution vulnerability present in the MSHTML component of
-Microsoft Windows
-A vulnerability exists in a component of Microsoft Windows. A malicious cyber
-actor could exploit this vulnerability to execute arbitrary code, potentially
-enabling the actor to take control of the vulnerable host. At this current time
-there is no patch available, affected Australian customers should apply the
-Microsoft recommended workarounds.
-14 Sep 2021: Alert status: HIGH
-Critical vulnerabilities present in certain versions of Apple iOS, macOS and
+16:Sep:2021:-:Alert:status::CRITICAL
+Remote:code:execution:vulnerability:present:in:Open:Management:Infrastructure,
+affects:certain:Microsoft:Azure:services
+A:remote:code:execution:vulnerability:exists:in:Open:Management:Infrastructure,
+a:management:agent:used:in:certain:Linux-based:Microsoft:Azure:services.
+Exploitation:of:this:vulnerability:could:allow:a:malicious:actor:to:take
+control:of:the:vulnerable:host.:Affected:organisations:should:apply:the
+available:security:update.
+16:Sep:2021:-:Alert:status::HIGH
+Remote:code:execution:vulnerability:present:in:the:Windows:Scripting:Engine:of
+Microsoft:Windows
+A:vulnerability:exists:in:a:component:of:Microsoft:Windows.:A:malicious:cyber
+actor:could:exploit:this:vulnerability:to:execute:arbitrary:code,:potentially
+enabling:the:actor:to:take:control:of:the:vulnerable:host.:Affected:Australian
+customers:should:apply:the:security:update:provided:by:Microsoft.
+14:Sep:2021:-:Alert:status::HIGH
+Remote:code:execution:vulnerability:present:in:the:MSHTML:component:of
+Microsoft:Windows
+A:vulnerability:exists:in:a:component:of:Microsoft:Windows.:A:malicious:cyber
+actor:could:exploit:this:vulnerability:to:execute:arbitrary:code,:potentially
+enabling:the:actor:to:take:control:of:the:vulnerable:host.:At:this:current:time
+there:is:no:patch:available,:affected:Australian:customers:should:apply:the
+Microsoft:recommended:workarounds.
+14:Sep:2021:-:Alert:status::HIGH
+Critical:vulnerabilities:present:in:certain:versions:of:Apple:iOS,:macOS:and
 Safari
-Vulnerabilities have been identified in certain versions of Apple iOS, macOS
-and Safari which could allow an actor to install malware or perform other
-actions on a vulnerable device or computer.
-10 Sep 2021: Alert status: MEDIUM
-Suspected user credentials stolen from FortiNet devices leaked online
-A malicious cyber actor has leaked a list of suspected user credentials and IP
-address of the associated FortiNet SSL VPN device the credentials are used for.
-Organisations should review the patch status and history of internet exposed
-FortiNet SSL VPN devices and consider performing a password reset for affected
+Vulnerabilities:have:been:identified:in:certain:versions:of:Apple:iOS,:macOS
+and:Safari:which:could:allow:an:actor:to:install:malware:or:perform:other
+actions:on:a:vulnerable:device:or:computer.
+10:Sep:2021:-:Alert:status::MEDIUM
+Suspected:user:credentials:stolen:from:FortiNet:devices:leaked:online
+A:malicious:cyber:actor:has:leaked:a:list:of:suspected:user:credentials:and:IP
+address:of:the:associated:FortiNet:SSL:VPN:device:the:credentials:are:used:for.
+Organisations:should:review:the:patch:status:and:history:of:internet:exposed
+FortiNet:SSL:VPN:devices:and:consider:performing:a:password:reset:for:affected
 users.
-01 Sep 2021: Alert status: HIGH
-Remote code execution vulnerability present in certain versions of Atlassian
+01:Sep:2021:-:Alert:status::HIGH
+Remote:code:execution:vulnerability:present:in:certain:versions:of:Atlassian
 Confluence
-A vulnerability exists in certain self-hosted versions of Atlassian Confluence
-which could allow a malicious cyber actor to execute arbitrary code. Affected
-organisations should apply the available patch to mitigate this vulnerability.
-30 Aug 2021: Alert status: MEDIUM
-Property-related business email compromise scams rising in Australia
-Cybercriminals are targeting the property and real estate sector to conduct
-business email compromise scams. All parties involved in the buying, selling
-and leasing of property should be vigilant when communicating via email,
-particularly during settlement periods.
-27 Aug 2021
-2021-009: Malicious actors deploying Gootkit Loader on Australian Networks
-From April 2021, the ACSC has received an increase in reporting of malicious
-actors targeting Australian networks with Gootkit JavaScript (JS) Loaders.
-Open-source reporting confirms that Gootkit JS Loaders are a precursor to
-several malware families traditionally used for cybercrime, notably, Gootkit,
-REvil ransomware, Kronos, or CobaltStrike. The ACSC is providing this
-information to enable organisations to undertake their own risk assessments and
-take appropriate actions to secure their systems and networks. The ACSC will
-update this advisory if more information becomes available.
-27 Aug 2021: Alert status: MEDIUM
-Malicious actors deploying Gootkit Loader on Australian Networks
-ACSC has observed an increase of Gootkit JavaScript (JS) Loaders on Australian
+A:vulnerability:exists:in:certain:self-hosted:versions:of:Atlassian:Confluence
+which:could:allow:a:malicious:cyber:actor:to:execute:arbitrary:code.:Affected
+organisations:should:apply:the:available:patch:to:mitigate:this:vulnerability.
+30:Aug:2021:-:Alert:status::MEDIUM
+Property-related:business:email:compromise:scams:rising:in:Australia
+Cybercriminals:are:targeting:the:property:and:real:estate:sector:to:conduct
+business:email:compromise:scams.:All:parties:involved:in:the:buying,:selling
+and:leasing:of:property:should:be:vigilant:when:communicating:via:email,
+particularly:during:settlement:periods.
+27:Aug:2021
+2021-009::Malicious:actors:deploying:Gootkit:Loader:on:Australian:Networks
+From:April:2021,:the:ACSC:has:received:an:increase:in:reporting:of:malicious
+actors:targeting:Australian:networks:with:Gootkit:JavaScript:(JS):Loaders.
+Open-source:reporting:confirms:that:Gootkit:JS:Loaders:are:a:precursor:to
+several:malware:families:traditionally:used:for:cybercrime,:notably,:Gootkit,
+REvil:ransomware,:Kronos,:or:CobaltStrike.:The:ACSC:is:providing:this
+information:to:enable:organisations:to:undertake:their:own:risk:assessments:and
+take:appropriate:actions:to:secure:their:systems:and:networks.:The:ACSC:will
+update:this:advisory:if:more:information:becomes:available.
+27:Aug:2021:-:Alert:status::MEDIUM
+Malicious:actors:deploying:Gootkit:Loader:on:Australian:Networks
+ACSC:has:observed:an:increase:of:Gootkit:JavaScript:(JS):Loaders:on:Australian
 networks.
-19 Aug 2021: Alert status: HIGH
-Microsoft Exchange ProxyShell Targeting in Australia
-The ACSC has observed targeting of the Microsoft Exchange ProxyShell
-vulnerability by Malicious actors.
-18 Aug 2021: Alert status: HIGH
-Vulnerability Affecting BlackBerry QNX RTOS
-BlackBerry has disclosed that its QNX Real Time Operating System is affected by
-a BadAlloc vulnerability: CVE-2021-22156. QNX is the worldâs most prevalent
-real time operating system.
-17 Aug 2021
-Vulnerability Affecting BlackBerry QNX RTOS
-The ACSC is aware of a vulnerability affecting the BlackBerry QNX, the
-worldâs most prevalent real time operating system.
-05 Aug 2021: Alert status: MEDIUM
-LockBit 2.0 ransomware incidents in Australia
-ACSC has observed an increase in reporting of LockBit 2.0 ransomware incidents
-in Australia.
-05 Aug 2021
-2021-006: ACSC Ransomware Profile: Lockbit 2.0
-The LockBit ransomware restricts access to corporate files and systems by
-encrypting them into a locked and unusable format. Victims receive instructions
-on how to engage with the offenders after encryption. LockBit affiliates have
-successfully deployed ransomware on corporate systems in a variety of countries
-and sectors, including Australia, where the ACSC is aware of numerous incidents
-since 2020. LockBit affiliates are known to implement the âdouble
-extortionâ technique by uploading stolen and sensitive victim information to
-their dark web site âLockBit 2.0â, and threatening to sell and/or release
-this information if their ransom demands are not met.
-03 Aug 2021: Alert status: HIGH
-SonicWall devices targeted with ransomware utilising stolen credentials
-SonicWall devices are being targeted by a malicious cyber actor as targets for
-ransomware. The ACSC is aware of likely related activity targeting Australian
+19:Aug:2021:-:Alert:status::HIGH
+Microsoft:Exchange:ProxyShell:Targeting:in:Australia
+The:ACSC:has:observed:targeting:of:the:Microsoft:Exchange:ProxyShell
+vulnerability:by:Malicious:actors.
+18:Aug:2021:-:Alert:status::HIGH
+Vulnerability:Affecting:BlackBerry:QNX:RTOS
+BlackBerry:has:disclosed:that:its:QNX:Real:Time:Operating:System:is:affected:by
+a:BadAlloc:vulnerability:-:CVE-2021-22156.:QNX:is:the:worldâs:most:prevalent
+real:time:operating:system.
+17:Aug:2021
+Vulnerability:Affecting:BlackBerry:QNX:RTOS
+The:ACSC:is:aware:of:a:vulnerability:affecting:the:BlackBerry:QNX,:the
+worldâs:most:prevalent:real:time:operating:system.
+05:Aug:2021:-:Alert:status::MEDIUM
+LockBit:2.0:ransomware:incidents:in:Australia
+ACSC:has:observed:an:increase:in:reporting:of:LockBit:2.0:ransomware:incidents
+in:Australia.
+05:Aug:2021
+2021-006::ACSC:Ransomware:Profile:-:Lockbit:2.0
+The:LockBit:ransomware:restricts:access:to:corporate:files:and:systems:by
+encrypting:them:into:a:locked:and:unusable:format.:Victims:receive:instructions
+on:how:to:engage:with:the:offenders:after:encryption.:LockBit:affiliates:have
+successfully:deployed:ransomware:on:corporate:systems:in:a:variety:of:countries
+and:sectors,:including:Australia,:where:the:ACSC:is:aware:of:numerous:incidents
+since:2020.:LockBit:affiliates:are:known:to:implement:the:âdouble
+extortionâ:technique:by:uploading:stolen:and:sensitive:victim:information:to
+their:dark:web:site:âLockBit:2.0â,:and:threatening:to:sell:and/or:release
+this:information:if:their:ransom:demands:are:not:met.
+03:Aug:2021:-:Alert:status::HIGH
+SonicWall:devices:targeted:with:ransomware:utilising:stolen:credentials
+SonicWall:devices:are:being:targeted:by:a:malicious:cyber:actor:as:targets:for
+ransomware.:The:ACSC:is:aware:of:likely:related:activity:targeting:Australian
 organisations.
-12 Jul 2021: Alert status: HIGH
-Kaseya VSA Supply-Chain Ransomware Attack
-Patch now available for Kaseya VSA platform.
-09 Jul 2021
-Advisory 2021-004: Active exploitation of ForgeRock Access Manager / OpenAM
+12:Jul:2021:-:Alert:status::HIGH
+Kaseya:VSA:Supply-Chain:Ransomware:Attack
+Patch:now:available:for:Kaseya:VSA:platform.
+09:Jul:2021
+Advisory:2021-004::Active:exploitation:of:ForgeRock:Access:Manager:/:OpenAM
 servers
-The Australian Signals Directorateâs Australian Cyber Security Centre (ACSC)
-has identified targeting and compromise of Australian organisations with
-vulnerable internet-accessible servers running ForgeRock Access Manager
-(ForgeRock AM). ForgeRock AM was previously known as OpenAM. The ACSC has
-observed malicious actors exploiting the vulnerability in ForgeRock AM/OpenAM
-to gain initial access to networks in multiple organisations, and facilitate
-further access within these networks. On 7 July 2021 the ACSC alerted
-organisations that this vulnerability was being actively exploited. This ACSC
-advisory provides recommendations for securing ForgeRock AM against
-vulnerability CVE-2021-35464, and advice on identifying potential successful
-exploitation of this vulnerability.
-07 Jul 2021: Alert status: HIGH
-ForgeRock Open AM critical vulnerability
-The ACSC has observed active exploitation of a vulnerability in ForgeRock
-OpenAM (reported as CVE-2021-35464) against a number of Australian
-organisations. The ACSC strongly recommends organisations urgently apply
-available patches or workarounds to mitigate the risk of this vulnerability
-being exploited.
-06 Jul 2021: Alert status: MEDIUM
-Cybercriminals targeting construction companies to conduct email scams
-Cybercriminals are targeting construction companies to conduct business email
-compromise scams. All parties to construction projects should be vigilant when
-emailing about invoices and bank details.
-30 Jun 2021: Alert status: LOW
-Microsoft Releases Security Updates for Microsoft Edge Browser
-On June 24, 2021 Microsoft released updates for their Edge Browser addressing
-two vulnerabilities that an attacker could exploit to inject and execute
-malicious code.
-21 Jun 2021: Alert status: HIGH
-Google Releases Security Updates for Chrome Browser
-On June 17, 2021 Google released Chrome version 91.0.4472.114 for Windows, Mac,
-and Linux. The patch notes for this version can be viewed at Chrome Release
+The:Australian:Signals:Directorateâs:Australian:Cyber:Security:Centre:(ACSC)
+has:identified:targeting:and:compromise:of:Australian:organisations:with
+vulnerable:internet-accessible:servers:running:ForgeRock:Access:Manager
+(ForgeRock:AM).:ForgeRock:AM:was:previously:known:as:OpenAM.:The:ACSC:has
+observed:malicious:actors:exploiting:the:vulnerability:in:ForgeRock:AM/OpenAM
+to:gain:initial:access:to:networks:in:multiple:organisations,:and:facilitate
+further:access:within:these:networks.:On:7:July:2021:the:ACSC:alerted
+organisations:that:this:vulnerability:was:being:actively:exploited.:This:ACSC
+advisory:provides:recommendations:for:securing:ForgeRock:AM:against
+vulnerability:CVE-2021-35464,:and:advice:on:identifying:potential:successful
+exploitation:of:this:vulnerability.
+07:Jul:2021:-:Alert:status::HIGH
+ForgeRock:Open:AM:critical:vulnerability
+The:ACSC:has:observed:active:exploitation:of:a:vulnerability:in:ForgeRock
+OpenAM:(reported:as:CVE-2021-35464):against:a:number:of:Australian
+organisations.:The:ACSC:strongly:recommends:organisations:urgently:apply
+available:patches:or:workarounds:to:mitigate:the:risk:of:this:vulnerability
+being:exploited.
+06:Jul:2021:-:Alert:status::MEDIUM
+Cybercriminals:targeting:construction:companies:to:conduct:email:scams
+Cybercriminals:are:targeting:construction:companies:to:conduct:business:email
+compromise:scams.:All:parties:to:construction:projects:should:be:vigilant:when
+emailing:about:invoices:and:bank:details.
+30:Jun:2021:-:Alert:status::LOW
+Microsoft:Releases:Security:Updates:for:Microsoft:Edge:Browser
+On:June:24,:2021:Microsoft:released:updates:for:their:Edge:Browser:addressing
+two:vulnerabilities:that:an:attacker:could:exploit:to:inject:and:execute
+malicious:code.
+21:Jun:2021:-:Alert:status::HIGH
+Google:Releases:Security:Updates:for:Chrome:Browser
+On:June:17,:2021:Google:released:Chrome:version:91.0.4472.114:for:Windows,:Mac,
+and:Linux.:The:patch:notes:for:this:version:can:be:viewed:at:Chrome:Release
 Note.
-13 May 2021: Alert status: HIGH
-Critical vulnerability discovered in HTTP.SYS in Microsoft Windows
-A remote code execution vulnerability could enable a malicious cyber actor to
-compromise vulnerable Microsoft Windows hosts. The ACSC strongly recommends
-applying available patches.
-10 May 2021: Alert status: HIGH
-Multiple high severity vulnerabilities discovered in the Exim mail server
-Exim vulnerabilities could enable a malicious cyber actor to compromise
-vulnerable Exim servers. The ACSC strongly recommends applying available
+13:May:2021:-:Alert:status::HIGH
+Critical:vulnerability:discovered:in:HTTP.SYS:in:Microsoft:Windows
+A:remote:code:execution:vulnerability:could:enable:a:malicious:cyber:actor:to
+compromise:vulnerable:Microsoft:Windows:hosts.:The:ACSC:strongly:recommends
+applying:available:patches.
+10:May:2021:-:Alert:status::HIGH
+Multiple:high:severity:vulnerabilities:discovered:in:the:Exim:mail:server
+Exim:vulnerabilities:could:enable:a:malicious:cyber:actor:to:compromise
+vulnerable:Exim:servers.:The:ACSC:strongly:recommends:applying:available
 patches.
-08 May 2021: Alert status: HIGH
-Avaddon Ransomware
-Increase in Avaddon ransomware attacks in Australia.
-08 May 2021
-2021-003: Ongoing campaign using Avaddon Ransomware
-The Australian Cyber Security Centre (ACSC) is aware an ongoing ransomware
-campaign utilising the Avaddon Ransomware malware. This campaign is actively
-targeting Australian organisations in a variety of sectors. This advisory
-provides details of Avaddon threat actors, dark web activity, targeted
-countries and sectors, the malware infection chain, and known Techniques,
-Tools, and Procedures (TTPs). If activity is identified relating to this
-advisory please report any findings to the ACSC.
-27 Apr 2021: Alert status: HIGH
-Potential exploitation of Click Studioâs PasswordState software
-On 24 April 2021, Australian software company Click Studios announced a
-compromise of the software update process for their enterprise password
-management software PasswordState, used by organisations in Australia and
+08:May:2021:-:Alert:status::HIGH
+Avaddon:Ransomware
+Increase:in:Avaddon:ransomware:attacks:in:Australia.
+08:May:2021
+2021-003::Ongoing:campaign:using:Avaddon:Ransomware
+The:Australian:Cyber:Security:Centre:(ACSC):is:aware:an:ongoing:ransomware
+campaign:utilising:the:Avaddon:Ransomware:malware.:This:campaign:is:actively
+targeting:Australian:organisations:in:a:variety:of:sectors.:This:advisory
+provides:details:of:Avaddon:threat:actors,:dark:web:activity,:targeted
+countries:and:sectors,:the:malware:infection:chain,:and:known:Techniques,
+Tools,:and:Procedures:(TTPs).:If:activity:is:identified:relating:to:this
+advisory:please:report:any:findings:to:the:ACSC.
+27:Apr:2021:-:Alert:status::HIGH
+Potential:exploitation:of:Click:Studioâs:PasswordState:software
+On:24:April:2021,:Australian:software:company:Click:Studios:announced:a
+compromise:of:the:software:update:process:for:their:enterprise:password
+management:software:PasswordState,:used:by:organisations:in:Australia:and
 globally.
+[Search] [Clear search]
+21:Apr:2021:-:Alert:status::HIGH
+Exploitation:of:Pulse:Connect:Secure:Vulnerabilities
+New:advice:for:mitigating:Pulse:Connect:Secure:Virtual:Private:Network:(VPN)
+vulnerabilities
+15:Apr:2021:-:Alert:status::CRITICAL
+Exchange:server:critical:vulnerabilities
+On:2:March:2021:Microsoft:released:information:regarding:multiple:exploits
+being:used:to:compromise:instances:of:Microsoft:Exchange:Server.:Malicious
+actors:are:exploiting:these:vulnerabilities:to:compromise:Microsoft:Exchange
+servers:exposed:to:the:internet,:enabling:access:to:email:accounts:and:to
+enable:further:compromise:of:the:Exchange:server:and:associated:networks.
+03:Apr:2021:-:Alert:status::HIGH
+APT:exploitation:of:Fortinet:Vulnerabilities
+Advanced:Persistent:Threat:actors:targeting:historic:Fortinet:vulnerabilities
+26:Mar:2021
+Advisory:2021-002::Active:exploitation:of:vulnerable:Microsoft:Exchange:servers
+On:2:March:2021:Microsoft:released:information:regarding:multiple:exploits
+being:used:to:compromise:instances:of:Microsoft:Exchange:Server.:Malicious
+actors:are:exploiting:these:vulnerabilities:to:compromise:Microsoft:Exchange
+server.:Malicious:actors:are:exploiting:these:vulnerabilities:to:compromise
+Microsoft:Exchange:servers:exposed:to:the:internet,:enabling:the:malicious
+actor:to:access:email:accounts:and:to:enable:further:compromise:of:the:Exchange
+server:and:associated:networks.
+25:Feb:2021:-:Alert:status::HIGH
+Potential:Accellion:File:Transfer:Appliance:compromise
+ACSC:identified:Australian:organisations:may:have:been:impacted:the:Accellion
+File:Transfer:Appliance:vulnerability:and:has:provided:mitigation
+recommendations.
+25:Feb:2021:-:Alert:status::HIGH
+VMware:vCenter:Server:plugin:remote:code:execution:vulnerability:(CVE-2021-
+21972)
+The:Australian:Signals:Directorateâs:Australian:Cyber:Security:Centre:(ACSC)
+advises:users:of:VMware:vCenter:Server:products,:including:as:part:of:VMware
+Cloud:Foundation,:to:ensure:their:systems:are:promptly:patched:after:the:recent
+disclosure:of:a:new:remote:code:execution:vulnerability.
+16:Feb:2021:-:Alert:status::HIGH
+Malware:targeting:Centreon:software
+ANSSI:identifies:campaign:targeting:Centreon:system:monitoring:software
+04:Feb:2021:-:Alert:status::HIGH
+SonicWall:Breach
+SonicWall:identified:an:internal:systems:breach:using:a:zero-day:vulnerability
+within:the:SMA:100:series:10.x:code.
+25:Jan:2021:-:Alert:status::HIGH
+Potential:SolarWinds:Orion:compromise
+FireEye:identifies:global:campaign:leveraging:malicious:updates:to:SolarWinds
+software.
+12:Nov:2020:-:Alert:status::HIGH
+SDBBot:targeting:health:sector
+The:ACSC:has:observed:increased:targeting:activity:against:the:Australian
+health:sector:by:actors:using:the:SDBBot:Remote:Access:Tool:(RAT).
+04:Nov:2020
+Protect:yourself:from:remote:access:scams
+NEVER:provide:your:personal:and:financial:details:or:give:a:stranger:remote
+access:to:your:device:or:computer:â:simply:hang:up.
+30:Oct:2020
+Advisory:2020-017::Resumption:of:Emotet:malware:campaign
+The:Australian:Signals:Directorateâs:Australian:Cyber:Security:Centre:(ACSC)
+has:observed:the:resumption:of:an:ongoing:and:widespread:campaign:of:malicious
+emails:designed:to:spread:the:Emotet:malware:across:a:variety:of:sectors:in:the
+Australian:economy,:including:critical:infrastructure:providers:and:government
+agencies.
+30:Oct:2020:-:Alert:status::HIGH
+Sustained:targeting:of:the:health:sector
+The:Australian:Signals:Directorateâs:Australian:Cyber:Security:Centre:has
+identified:a:sustained:campaign:by:sophisticated:cybercrime:actors:impacting
+the:Australian:health:sector.
+01:Oct:2020:-:Alert:status::HIGH
+2019-131a::Emotet:malware:campaign
+The:Australian:Signals:Directorateâs:Australian:Cyber:Security:Centre:(ACSC)
+has:observed:an:ongoing:and:widespread:campaign:of:malicious:emails:designed:to
+spread:Emotet:across:a:variety:of:sectors:in:the:Australian:economy,:including
+critical:infrastructure:providers:and:government:agencies.
+22:Sep:2020
+Advisory:2020-016::"Zerologon":-:Netlogon:Elevation:of:Privilege:Vulnerability
+(CVE-2020-1472)
+The:ACSC:recommends:organisations:immediately:patch:affected:Microsoft:Windows
+systems:with:the:Microsoft:August:2020:Security:Updates,:released:11/08/2020.
+22:Sep:2020:-:Alert:status::HIGH
+Netlogon:elevation:of:privilege:vulnerability:(CVE-2020-1472)
+The:ACSC:is:aware:of:a:recently:disclosed:critical:vulnerability:in:Microsoft
+Active:Directory:Domain:Controller:systems:that:allows:unauthenticated
+attackers:to:trivially:access:administrative:credentials.
+18:Sep:2020:-:Alert:status::HIGH
+Active:exploitation:of:vulnerable:MobileIron:products
+The:ACSC:is:aware:of:active:exploitation:of:vulnerabilities:in:multiple
+MobileIron:products:by:malicious:cyber:actors,:including:sophisticated:state-
+based:actors.
+16:Sep:2020
+Advisory:2020-008::Copy-paste:compromises:-:tactics,:techniques:and:procedures
+used:to:target:multiple:Australian:networks
+This:advisory:details:the:tactics,:techniques:and:procedures:(TTPs):identified
+during:the:Australian:Cyber:Security:Centreâs:(ACSC):investigation:of:a:cyber
+campaign:targeting:Australian:networks.:These:TTPs:are:captured:in:the:frame:of
+tactics:and:techniques:outlined:in:the:MITRE:ATT&amp;CK:framework.
+16:Sep:2020:-:Alert:status::HIGH
+Copy-paste:compromises
+The:Australian:Government:is:aware:of,:and:responding:to,:a:sustained:targeting
+of:Australian:governments:and:companies:by:a:sophisticated:state-based:actor.
+The:title:âCopy-paste:compromisesâ:is:derived:from:the:actorâs:heavy:use
+of:tools:copied:almost:identically:from:open:source.
+02:Sep:2020
+Joint:Advisory:on:Technical:Approaches:to:Uncovering:and:Remediating:Malicious
+Activity
+The:purpose:of:this:report:is:to:enhance:incident:response:among:partners:and
+network:administrators:along:with:serving:as:a:playbook:for:incident
+investigation.
+13:Aug:2020:-:Alert:status::HIGH
+Phone:scams:impersonating:Australian:businesses:and:government:agencies
+Cybercriminals:are:spoofing:Australian:mobile:numbers:and:pretending:to:be:from
+an:Australian:Government:agency,:delivery:company:or:business,:manipulating:the
+individual:to:gain:access:to:their:device.
+13:Aug:2020
+Protect:yourself:from:remote:access:scams
+NEVER:provide:your:personal:and:financial:details:or:give:a:stranger:remote
+access:to:your:device:or:computer:â:simply:hang:up.
+02:Aug:2020
+2020-013:Ransomware:targeting:Australian:aged:care:and:healthcare:sectors
+Recently:there:has:been:a:significant:increase:in:healthcare:or:COVID-19:themed
+malicious:cyber:activity,:including:targeting:of:the:aged:care:and:healthcare
+sectors:by:financially:motivated:cyber:criminals:using:the:âMazeâ
+ransomware.
+02:Aug:2020:-:Alert:status::CRITICAL
+Ransomware:targeting:Australian:aged:care:and:healthcare:sectors
+ACSC:is:aware:of:increasing:targeting:of:healthcare,:including:hospitals:and
+aged:care,:by:ransomware:campaigns:undertaken:by:cyber:criminals.
+16:Jul:2020
+Protect:yourself:and:others:from:MyGov-related:scams
+The:Australian:Taxation:Office:(ATO):is:receiving:increased:reports:of:myGov-
+related:SMS:and:email:scams.:As:always,:our:advice:is:DONâT:click:any:links
+and:DONâT:provide:the:information:requested.
+16:Jul:2020:-:Alert:status::HIGH
+Increasing:reports:of:myGov-related:SMS:and:email:scams:targeting:Australians
+Be:on:the:lookout:for:myGov-related:SMS:and:email:scams:asking:you:to:verify
+your:myGov:details.
+15:Jul:2020
+ACSC:Advisory:2020-012::Critical:remote:code:execution:vulnerability:in:Windows
+DNS:server:(CVE-2020-1350)
+An:adversary:who:successfully:exploits:the:vulnerability:could:run:arbitrary
+code:in:the:context:of:the:Local:System:Account.:The:Australian:Cyber:Security
+Centre:(ACSC):strongly:recommends:users:apply:the:security:patch:to:their
+Windows:DNS:servers:to:prevent:an:adversary:from:exploiting:this:vulnerability.
+15:Jul:2020:-:Alert:status::CRITICAL
+Remote:code:execution:vulnerability:in:Windows:DNS:(CVE-2020-1350)
+On:14:July:2020,:Microsoft:acknowledged:a:critical:remote:code:execution
+vulnerability:in:Windows:Domain:Name:System:(DNS),:which:could:allow:an
+adversary:to:run:arbitrary:code.
+14:Jul:2020
+2020-011::Critical:Vulnerability:in:SAP:NetWeaver:Application:Server:(CVE-2020-
+6287)
+The:Australian:Cyber:Security:Centre:(ACSC):recommends:users:of:these:products
+urgently:apply:available:security:patches:to:prevent:an:adversary:from
+exploiting:this:vulnerability.
+14:Jul:2020:-:Alert:status::CRITICAL
+Critical:vulnerability:for:SAP:NetWeaver:Application:Server:(CVE-2020-6287)
+On:13:July:2020:(United:States:EST),:enterprise:resource:planning:provider:SAP
+released:a:security:patches:for:a:critical:vulnerability:affecting:the:Java
+component:LM:Configuration:Wizard:within:the:SAP:NetWeaver:Application:Server.
+06:Jul:2020:-:Alert:status::MEDIUM
+TMUI:remote:code:execution:vulnerability:-:CVE-2020-5902
+The:ACSC:advises:users:of:F5âs:enterprise:and:data:centre:BIG-IP:products:to
+ensure:their:systems:are:promptly:patched:after:the:recent:disclosure:of:new
+remote:code:execution:vulnerability.
+25:May:2020:-:Alert:status::HIGH
+DDoS:threats:being:made:against:Australian:organisations
+The:Australian:Signals:Directorate's:Australian:Cyber:Security:Centre:(ACSC):is
+aware:of:a:number:of:Denial:of:Service:(DoS):for:ransom:threats:being:made
+against:Australian:organisations,:primarily:in:the:banking:and:finance:sector.
+22:May:2020:-:Alert:status::HIGH
+COVID-19:malicious:cyber:activity
+Malicious:cyber:actors:are:actively:targeting:individuals:and:Australian
+organisations:with:COVID-19:related:scams:and:phishing:emails.:These:incidents
+are:likely:to:increase:in:frequency:and:severity:over:the:coming:weeks:and
+months.:This:is:due,:in:part,:to:the:ease:in:which:existing:scam:emails:and
+texts:can:be:modified:with:a:COVID-19:theme.
+22:May:2020
+2020-006:Detecting:and:mitigating:exploitation:of:vulnerability:in:Microsoft
+Internet:Information:Services
+This:advisory:provides:indicators:of:the:activity:ACSC:has:observed:and:details
+proactive:advice:on:detecting:and:mitigating:potential:exploitation:of:this
+vulnerability:in:Microsoft:Internet:Information:Services.
+22:May:2020:-:Alert:status::HIGH
+Active:exploitation:of:vulnerability:in:Microsoft:Internet:Information:Services
+The:Australian:Signals:Directorateâs:Australian:Cyber:Security:Centre:(ACSC)
+is:aware:that:sophisticated:actors:are:actively:exploiting:a:deserialisation
+vulnerability:existing:in:all:versions:of:Microsoftâs:Internet:Information
+Services:(IIS):using:the:.NET:framework:(.NET).:The:vulnerability:exploits:the
+serviceâs:VIEWSTATE:parameter:to:allow:for:remote:code:execution:by
+unauthorised:users.
+22:May:2020
+Advisory:2020-004::Remote:code:execution:vulnerability:being:actively:exploited
+in:vulnerable:versions:of:Telerik:UI:by:sophisticated:actors
+This:advisory:is:focused:around:the:targeting:of:CVE-2019-18935:but:has
+significant:overlap:to:the:previously:released:ACSC:2019-126:advisory.
+22:May:2020:-:Alert:status::HIGH
+2019-126::Vulnerable:version:of:Telerik:UI:being:actively:exploited:by:APT
+actor
+The:Australian:Cyber:Security:Centre:(ACSC):has:become:aware:that:Advanced
+Persistent:Threat:(APT):actors:have:been:scanning:for:and:attempting
+exploitation:against:unpatched:versions:of:Telerik:UI:for:ASP.NET:AJAX:using
+publicly:available:exploits.:Successful:exploitation:could:allow:an:attacker:to
+upload:files:to:the:vulnerable:server:to:facilitate:further:compromise.
+20:May:2020
+Summary:of:Tactics,:Techniques:and:Procedures:Used:to:Target:Australian
+Networks
+This:advisory:provides:information:on:methods:to:detect:many:of:the:TTPs
+listed.:Partners:are:strongly:encouraged:to:review:their:environments:for:the
+presence:of:the:exploited:vulnerabilities:and:provided:TTPs.
+20:May:2020:-:Alert:status::MEDIUM
+Summary:of:Tradecraft:Trends:for:2019-20
+The:Australian:Cyber:Security:Centre:(ACSC):investigated:and:responded:to
+numerous:cyber:security:incidents:during:2019:and:2020:so:far.
+08:May:2020:-:Alert:status::HIGH
+Advanced:Persistent:Threat:(APT):actors:targeting:Australian:health:sector
+organisations:and:COVID-19:essential:services
+The:Australian:Signals:Directorateâs:(ASD):Australian:Cyber:Security:Centre
+(ACSC):is:aware:that:Advanced:Persistent:Threat:(APT):actors:are:actively
+targeting:health:sector:organisations:and:medical:research:facilities.
+08:May:2020
+Advisory:2020-009::Recommendations:to:mitigate:APT:actors:targeting:health
+sector:and:COVID-19:essential:services
+The:ACSC:recommends:that:organisations:in:the:health:sector:implement:the
+following:cyber:security:mitigations:
+20:Apr:2020
+Threat:update::COVID-19:malicious:cyber:activity:20:April:2020
+The:Australian:Signals:Directorateâs:Australian:Cyber:Security:Centre:(ACSC)
+continues:to:receive:reports:from:individuals,:businesses:and:government
+departments:about:a:range:of:different:COVID-19:themed:scams,:online:frauds:and
+phishing:campaigns.:This:threat:update:is:about:raising:awareness:of:the
+evolving:nature:of:COVID-19:related:malicious:cyber:activity:impacting
+Australians.
+16:Apr:2020:-:Alert:status::HIGH
+Sextortion:email:campaign:impacting:Australians
+A:large:number:of:Australians:are:being:impacted:by:an:email:âsextortionâ
+campaign:in:which:the:cyber:scammers:responsible:have:threatened:to:release
+personal:and:sensitive:information:to:the:recipientsâ:contacts:unless:the
+scammer:is:paid:in:cash:or:bitcoin.
+16:Apr:2020
+Sextortion:campaign:-:What:to:do:if:you:receive:the:email
+In:most:cases,:there:is:no:reason:to:be:concerned.:These:emails:are:typically
+generated:in:their:thousands:by:online:scammers:using:limited:personal:details,
+with:the:aim:of:intimidating:recipients:into:paying:the:ransom.
+14:Apr:2020
+COVID-19::Cyber:security:tips:when:working:from:home
+The:COVID-19:pandemic:has:resulted:in:many:people:working:from:home:for:the
+first:time.:Working:from:home:has:specific:cyber:security:risks,:including
+targeted:cybercrime.:When:compromised,:unauthorised:access:to:your:stored
+information:can:have:a:devastating:effect:on:your:emotional,:financial:and
+working:life.
+27:Mar:2020
+COVID-19:Malicious:Scams:-:Threat:Awareness:and:Guidance
+The:ACSC:has:produced:a:detailed:report,:including:practical:cyber:security
+advice:that:organisations:and:individuals:can:follow:to:reduce:the:risk:of
+harm.
+27:Mar:2020
+Threat:update::COVID-19:malicious:cyber:activity:27:March:2020
+This:update:is:designed:to:raise:awareness:of:increasing:COVID-19:themed
+malicious:cyber:activity,:and:provide:practical:cyber:security:advice:that
+organisations:and:individuals:can:follow:to:reduce:the:risk:of:being:impacted.
+27:Mar:2020
+COVID-19:themed:malicious:cyber:activity
+This:update:is:designed:to:raise:awareness:of:increasing:COVID-19:themed
+malicious:cyber:activity,:and:provide:practical:cyber:security:advice:that
+organisations:and:individuals:can:follow:to:reduce:the:risk:of:being:impacted.
+16:Mar:2020
+COVID-19:scam:messages
+ASDâs:Australian:Cyber:Security:Centre:(ACSC):is:aware:of:a:COVID-19:themed
+scam:being:distributed:via:text:message.
+13:Mar:2020
+Cyber:security:is:essential:when:preparing:for:COVID-19
+In:light:of:the:COVID-19:pandemic,:organisations:are:developing:strategies:to
+protect:staff:and:vulnerable:members:of:our:community.
+[Search] [Clear search]
+25:Feb:2020
+Recommendations:to:mitigate:DDoS:threats:being:made:against:Australian
+organisations
+The:Australian:Signals:Directorate's:Australian:Cyber:Security:Centre:(ACSC):is
+aware:of:a:number:of:Denial:of:Service:(DoS):for:ransom:threats:being:made
+against:Australian:organisations,:primarily:in:the:banking:and:finance:sector.
+06:Feb:2020
+2020-003::Mailto:ransomware:incidents:Recommendations
+The:ACSCâs:recommendations:for:detecting:and:preventing:the:spread:of:the
+Mailto:ransomware:is:to:update:antivirus:and:other:security:tools.
+06:Feb:2020:-:Alert:status::HIGH
+2020-003::Mailto:ransomware:incidents
+The:Australian:Signals:Directorateâs:Australian:Cyber:Security:Centre:(ACSC)
+is:aware:of:recent:ransomware:incidents:involving:a:ransomware:tool:known:as
+âMailtoâ:or:âKazakavkovkizâ.:Mailto:belongs:to:the:KoKo:ransomware
+family.
+29:Jan:2020:-:Alert:status::HIGH
+Processors:can:be:exploited:by:Meltdown:and:Spectre:vulnerabilities
+Security:researchers:have:developed:methods:involving:speculative:execution:to
+read:kernel:memory:from:user:space:on:a:variety:of:processors:from:a:range:of
+vendors:produced:in:the:last:decade.:These:methods:have:been:referred:to:as
+Meltdown:and:Spectre.
+29:Jan:2020
+Revised:patch:released:to:disable:mitigation:against:Spectre:variant:2
+Intel:has:confirmed:that:the:microcode:updates:designed:to:mitigate:Spectre
+variant:2:(CVE-2017-5715::Branch:Target:Injection):have:introduced:an:increased
+risk:of:system:instability,:data:loss:and:corruption.
+15:Jan:2020
+2020-002::Critical:Vulnerabilities:for:Microsoft:Windows,:Patch:Urgently
+If:you:or:your:organisation:uses:any:of:the:affected:products,:the:ACSC
+recommends:that:you:apply:the:patches:urgently.
+15:Jan:2020:-:Alert:status::CRITICAL
+2020-002::Critical:vulnerabilities:for:Microsoft:Windows
+On:15:January:2020:(AEDT),:Microsoft:released:security:patches:for:three
+critical:and:one:important:vulnerabilities:in:the:Microsoft:Remote:Desktop
+Client,:Remote:Desktop:Gateway:and:the:Windows:operating:system.:The:ACSC
+recommends:that:users:of:these:products:apply:patches:urgently:to:prevent
+malicious:actors:from:using:these:vulnerabilities:to:compromise:your:network.
+13:Jan:2020
+2020-001-4::Remediation:for:critical:vulnerability:in:Citrix:Application
+Delivery:Controller:and:Citrix:Gateway
+On:19:January:2020,:Citrix:released:patches:for:two:versions:of:the:Citrix
+Application:Delivery:Controller:(ADC):and:Citrix:Gateway:appliances.:Citrix
+expects:to:have:patches:available:across:all:supported:versions:of:Citrix:ADC,
+Citrix:Gateway:and:Citrix:SD-WAN:WANOP:before:the:end:of:January:2020.
+13:Jan:2020:-:Alert:status::CRITICAL
+Active:exploitation:of:critical:vulnerability:in:Citrix:Application:Delivery
+Controller:and:Citrix:Gateway
+The:Australian:Signals:Directorateâs:Australian:Cyber:Security:Centre:(ACSC)
+is:aware:of:ongoing:attempts:to:exploit:a:critical:vulnerability:in:Citrix
+Application:Delivery:Controller:(ADC):(formerly:known:as:NetScaler:ADC),:Citrix
+Gateway:(formerly:known:as:NetScaler:Gateway):and:Citrix:SD-WAN:WANOP.
+11:Jan:2020
+Meltdown:and:Spectre:patches:unsuitable:for:some:security:products
+The:ACSC:is:aware:of:reporting:that:a:variety:of:security:products:(e.g.
+antivirus:solutions):are:incompatible:with:Microsoft's:patches:for:the:Meltdown
+and:Spectre:vulnerabilities.
+13:Dec:2019:-:Alert:status::HIGH
+Australia:Post:SMS:scam:targeting:Australians
+With:millions:of:parcel:deliveries:expected:around:the:country,:Australia:Post
+is:seeing:widespread:scam:text:(SMS):messages:being:sent:to:people,:using:their
+brand.
+13:Dec:2019
+Australia:Post:SMS:Scam:-:Threat:Awareness:and:Guidance
+Anyone:can:be:a:target,:whether:you:are:waiting:for:an:Australia:Post:delivery
+or:not.:Scammers:cast:their:net:wide,:hoping:to:catch:someone:out:who:might:be
+waiting:for:a:parcel:delivery:this:holiday:season.
+08:Nov:2019
+2019-131a::Emotet:malware:campaign:recommended:actions
+The:ACSC:recommends:organisations:consider:the:following:actions:to:mitigate:a
+number:of:Emotet/Trickbot:infections:leading:to:ransomware:attacks,:most
+notably:a:recent:attack:on:the:Victorian:health:sector:using:the:Ryuk
+ransomware:variant.
+01:Oct:2019
+2019-129::Recommendations:to:mitigate:vulnerability:in:Pulse:Connect:Secure:VPN
+Software
+The:Australian:Cyber:Security:Centre:recommends:users:of:the:affected:Pulse
+Connect:Secure:VPN:software:immediately:upgrade:their:software.
+05:Aug:2019
+2019-130::Password:spray:attacks:â:detection:and:mitigation:strategies
+This:advisory:contains:detection:and:mitigation:guidance,:some:of:which:has
+been:successfully:deployed:in:recent:investigations.
+05:Aug:2019:-:Alert:status::HIGH
+2019-130::Password:spray:attacks
+The:Australian:Cyber:Security:Centre:(ACSC):is:aware:of:a:high:volume:of
+ongoing:password:spray:attacks:targeting:Australian:organisations.
+30:Jul:2019
+ICS-CERT:Advisories
+ICS-CERT:advisories:link:from:the:US:Department:of:Homeland:Security
+30:Jul:2019:-:Alert:status::HIGH
+ICS-CERT:Alerts
+Link:to:ICS-CERT:alerts:from:the:US:Department:of:Homeland:Security
+24:Jul:2019
+Sextortion:campaign:-:what:to:do
+Information:about:what:to:do:if:you:receive:a:sextortion:email.
+24:Jul:2019:-:Alert:status::HIGH
+Sextortion:campaign
+The:Australian:Cyber:Security:Centre:(ACSC):is:aware:of:a:sextortion:scam:email
+campaign:targeting:the:Australian:community.
+06:Jun:2019
+Mitigation:for:Microsoft:Windows:Security:Vulnerability:â:âBlueKeepâ
+(CVE-2019-0708)
+The:Australian:Signals:Directorateâs:Australian:Cyber:Security:Centre:(ACSC)
+advises:Windows:users:to:ensure:their:systems:are:patched:and:up:to:date:after
+Microsoftâs:recent:disclosure:of:new:remote:desktop:vulnerability.
+06:Jun:2019:-:Alert:status::HIGH
+Microsoft:Windows:security:vulnerability:â:âBlueKeepâ:(CVE-2019-0708)
+CVE-2019-0708,:also:known:as:âBlueKeepâ:leaves:users:open:to:attack:from
+malicious:actors:who:can:exploit:a:vulnerability:via:Remote:Desktop:Services
+(RDS):on:legacy:versions:of:the:Windows:operating:system.
+16:May:2019
+2019-126::Recommendations:for:mitigation:of:vulnerable:version:of:Telerik:UI
+The:tools:to:exploit:this:vulnerability:have:been:publicly:published:and
+require:only:basic:knowledge:or:skills:to:use:successfully.:Any:servers
+currently:running:a:vulnerable:version:should:be:considered:at:risk:and
+remediation:steps:should:be:taken.
+06:May:2019
+ACSC:Advisory:2019-125::Targeting:of:Microsoft:SharePoint:CVE-2019-0604
+This:ACSC:advisory:provides:recommendations:for:securing:Microsoft:SharePoint
+and:advice:on:identifying:potential:successful:exploitation:of:this
+vulnerability.
+06:May:2019:-:Alert:status::MEDIUM
+Microsoft:SharePoint:CVE-2019-0604
+The:ACSC:is:aware:of:malicious:cyber:actors:successfully:exploiting:a:Microsoft
+SharePoint:vulnerability:in:order:to:implant:web:shells:on:compromised:hosts.
+15:Mar:2019:-:Alert:status::MEDIUM
+773M:accounts:affected:by:'Collection:#1':breach
+The:Australian:Cyber:Security:Centre:(ACSC):is:aware:of:a:significant:data
+breach:affecting:773:million:email:addresses:and:usernames.
+15:Mar:2019
+Recommendations:to:protect:773M:accounts:affected:by:'Collection:#1':breach
+This:advisory:provides:recommendations:for:protecting:773M:accounts:affected:by
+'Collection:#1':breach.
+09:Jan:2019
+Advice:remains:that:organisations:should:patch:Meltdown/Spectre:vulnerabilities
+Recent:media:reporting:has:indicated:that:applying:the:patches:for:these
+vulnerabilities:can:lead:to:performance:issues,:and:can:impact:on:the
+availability:of:third:party:software.
+05:Jan:2019
+Patch:your:devices:for:Meltdown:and:Spectre:vulnerabilities:as:soon:as:possible
+A:malicious:actor:could:possibly:use:this:vulnerability:to:gain:access:to:areas
+of:memory:they:should:not:have:permission:to:access.:This:could:result:in
+malicious:actors:obtaining:sensitive:data,:such:as:passwords.
+29:Sep:2018
+Recommendations:to:mitigate:Facebook:flaw:in:'View:As':feature
+This:advisory:provides:information:about:how:to:protect:yourself:to:minimise
+the:risk:of:further:breaches:caused:by:attackers:exploiting:the:flaw:in:the
+'View:As':feature:on:Facebook.
+29:Sep:2018:-:Alert:status::MEDIUM
+Facebook:security:issue:affects:50M:user:accounts
+The:ACSC:is:aware:of:a:security:issue:affecting:50:million:Facebook:user
+accounts:whereby:a:flaw:in:the:'View:As':feature:allowed:attackers:to:steal
+Facebook:access:tokens,:which:could:be:used:to:take:over:user's:accounts.
+Access:tokens:are:the:equivalent:of:digital:keys:that:allow:users:to:remain
+logged:into:Facebook.
+01:Jul:2018:-:Alert:status::CRITICAL
+Vulnerability:in:the:Drupal:content:management:system
+The:ACSC:has:become:aware:of:a:critical:vulnerability:in:the:Drupal:content
+management:system.:This:potentially:allows:attackers:to:exploit:multiple:attack
+vectors:on:a:Drupal:site,:which:could:result:in:the:site:being:completely
+compromised.
+25:May:2018:-:Alert:status::HIGH
+VPNFilter:malware
+Australian:users:need:to:be:aware:of:VPNFilter:malware.
+17:May:2018
+Information:about:vulnerability:in:the:Drupal:content:management:system
+Drupal:assesses:this:vulnerability:as:critical.:If:you:are:using:a:version:of
+Drupal:prior:to:7.58:or:8.51,:the:ACSC:recommends:that:you:upgrade:immediately
+as:per:Drupal's:advice.
+15:May:2018
+Protecting:against:VPNFilter:malware
+Once:a:malicious:actor:compromises:a:device:using:VPNFilter:malware,:they:are
+able:to:collect:network:traffic:(including:website:credentials):traversing:the
+device.:Importantly,:the:malware:can:also:be:used:to:disable:the:device.
+17:Apr:2018:-:Alert:status::HIGH
+Routers:targeted::Cisco:Smart:Install:feature:continues:to:be:targeted:by
+Russian:state-sponsored:actors
+Russian:state-sponsored:actors:are:responsible:for:activity:targeting:Cisco
+devices:using:the:Smart:Install:feature:worldwide,:including:Australia.
+17:Apr:2018
+Secure:the:Cisco:IOS:and:IOS:XE:Smart:Install:Feature
+Organisations:are:advised:to:identify:Cisco:devices:running:Smart:Install
+within:their:networks,:evaluate:the:need:of:running:this:feature,:and:remove:or
+secure:the:feature:as:required.:Both:the:ACSC:and:Cisco:documentation:contain
+details:on:how:to:accomplish:this.
+29:Jun:2017
+Update:on:the:initial:infection:vector:of:the:Petya:ransomware:campaign
+This:is:an:example:of:where:a:lack:of:patching:and:continued:use:of:out-dated
+protocols:presents:a:significant:risk:to:organisational:IT:security.
+28:Jun:2017
+Update:on:Petya:ransomware:campaign
+The:ACSC:is:aware:of:a:large-scale:ransomware:campaign:that:is:impacting
+organisations:globally.:The:campaign:is:variously:known:as:'Petya',:'NotPetya',
+'SortaPetya',:'Petna':or:'GoldenEye'.
+15:Nov:2015
+Web:Shells:â:Threat:Awareness:and:Guidance
+This:advisory:outlines:the:Web:shells:threat:and:provides:prevention,:detection
+and:mitigation:strategies:for:administrators:of:web:servers:that:have:active
+content:languages:installed.
+15:Nov:2015:-:Alert:status::HIGH
+Web:shells:being:used:as:attack:vectors:on:networks
+This:alert:highlights:the:frequent:use:of:web:shells:as:an:exploitation:vector.
+Web:shells:can:be:used:to:leverage:unauthorised:access:and:can:lead:to:wider
+network:compromise.
