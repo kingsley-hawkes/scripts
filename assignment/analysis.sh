@@ -45,21 +45,24 @@ func_start () {
 
 #Function for creating a new account.
 func_createAccount () {
-
+	#Options for entering user name .
 	echo -e "\n"
 	read -p "To create an account please type in a user name:" userName
 		echo "$userName" > userName.txt
 
+	#Option for entering password
 	read -s -p "Please type in a password:" userPassword
 
+		#Checks if password is a secure password. If not, takes user back to start of creation.
 		if ! [[ $(echo "$userPassword" | grep -P '(?=^.{8,}$)(?=.*\d)(?=.*[!@#$%^&*]+)(?![.\n])(?=.*[A-Z])(?=.*[a-z]).*$') ]]; then
-			echo -e "\n\t\tPassword is not strong enough."
+			echo -e "\n\t\t${red}Password is not strong enough.${nc}"
 			echo -e "\t\tPlease choose a password at least 8 characters long"
 			echo -e "\t\twith at least one number, one capital, one lower case and one symbol."
 			func_createAccount	
 		else
+			#Saves password as secure hash and changes permissions of password file to root.
 			echo "$userPassword"  | sha256sum > userPassword.txt ; chmod +x userPassword.txt
-			echo -e "\n\t\tYou have just created an account for user: $userName."
+			echo -e "\n\t\t${purple}You have just created an account for user:${nc} $userName."
 			func_menu
 		fi
 
@@ -102,15 +105,20 @@ func_menu () {
 	#Prints main menu options.
 	echo -e "\t\t\t${blue}Welcome to the Alert Analysis Main Menu.${nc}"
 	echo -e "\n\t\tPlease type a number from the following selection:"
-	echo -e "\t\t\t${white}1) Overview of Alerts.${nc}"
-	echo -e "\t\t\t2) Quit."
+	echo -e "\t\t\t${white}1) Trend of Alerts.${nc}"
+	echo -e "\t\t\t2) Threats of Alerts."
+	echo -e "\t\t\t${white}3) Quit.${nc}"
 	read var_menuOption
 
-
+	#Takes user to desired path.
 	case  $var_menuOption in
-		1) echo -e "\t\t\tYou have chosen option one."
+		1) cat data/trend.txt
+			func_menu
 		;;
-		2) echo -e "\n\t${green}Thank you for using the Cyber Security Alert Analysis Program.\n\t\t\tHave a nice Day.${nc}"
+		2) cat data/threat.txt
+			func_menu
+		;;
+		3) echo -e "\n\t${green}Thank you for using the Cyber Security Alert Analysis Program.\n\t\t\tHave a nice Day.${nc}"
                         exit 0
                 ;;
                 *) echo -e "\n\t\t\t${red}Input is not valid.${nc}"
