@@ -1,0 +1,33 @@
+#Graph indicating threat alerts from Malicious Software beween 2015 to 2022.
+
+
+	  -|
+	  -|
+	  -|		 *
+	50-|		 *
+	  -|		 *
+	  -|		 *
+  A	  ___		 *
+  L	  ___		 *
+  E	  -|		 *
+  R	  -|		 *
+  T	20-|		 *
+  S	  -|             *
+	  -|		 *
+	  -|		 *	 *
+	  -|	 *	 *	 *
+	10-|	 *	 *	 *
+	  -|	 *	 *	 *
+	  -|	 *	 *	 *
+	  -|	 *	 *	 *
+	  -|	 *	 *	 *
+	 0  ---------------------------
+		 '	 '	 '
+	     Critical   High   Medium
+
+		   Threat Level
+
+#Here we can see that High level threats greatly outnumber critical and medium level
+#threats between the years of 2015 to 2022.	
+
+

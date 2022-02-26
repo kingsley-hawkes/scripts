@@ -1,0 +1,30 @@
+#Graph indicating trends of cybersecurity alerts from 2015 to 2021
+
+
+	  -|
+	  -|
+	  -|						 *	 *
+	50-|						 *	 *
+	  -|						 *	 *
+	  -|						 *	 *
+  A	  ___						 *	 *
+  L	  ___						 *	 *
+  E	  -|						 *	 *
+  R	  -|						 *	 *
+  T	20-|						 *	 *
+  S	  -|					 *	 *	 *
+	  -|					 *	 *	 *
+	  -|					 *	 *	 *
+	  -|					 *	 *	 *
+	10-|					 *	 *	 *
+	  -|				 *	 *	 *	 *
+	  -|				 *	 *	 *	 *
+	  -|				 *	 *	 *	 *
+	  -|	 *		 *	 *	 *	 *	 *
+	 0  ----------------------------------------------------------
+		 '	 '	 '	 '	 '	 '	 '
+		2015	2016	2017	2018	2019	2020	2021
+
+					Year
+
+#Here we can see a sharp increase in cyber security alerts in the last 5 years.	
