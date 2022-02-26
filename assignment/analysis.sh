@@ -122,8 +122,7 @@ func_menu () {
                         exit 0
                 ;;
                 *) echo -e "\n\t\t\t${red}Input is not valid.${nc}"
-                        var_startMessage="\n\t\t\tPlease try again."
-                        func_start
+                        func_menu
                 ;;
 	esac 
 
