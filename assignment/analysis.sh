@@ -46,12 +46,22 @@ func_start () {
 #Function for creating a new account.
 func_createAccount () {
 
+	echo -e "\n"
 	read -p "To create an account please type in a user name:" userName
 		echo "$userName" > userName.txt
 
 	read -s -p "Please type in a password:" userPassword
-		echo "$userPassword"  | sha256sum > userPassword.txt
-		echo -e "\t\tYou have just created an account for user: $userName."
+
+		if ! [[ $(echo "$userPassword" | grep -P '(?=^.{8,}$)(?=.*\d)(?=.*[!@#$%^&*]+)(?![.\n])(?=.*[A-Z])(?=.*[a-z]).*$') ]]; then
+			echo -e "\n\t\tPassword is not strong enough."
+			echo -e "\t\tPlease choose a password at least 8 characters long"
+			echo -e "\t\twith at least one number, one capital, one lower case and one symbol."
+			func_createAccount	
+		else
+			echo "$userPassword"  | sha256sum > userPassword.txt ; chmod +x userPassword.txt
+			echo -e "\n\t\tYou have just created an account for user: $userName."
+			func_menu
+		fi
 
 }
 
