@@ -61,7 +61,7 @@ func_createAccount () {
 			func_createAccount	
 		else
 			#Saves password as secure hash and changes permissions of password file to root.
-			echo "$userPassword"  | sha256sum > userPassword.txt ; chmod +x userPassword.txt
+			echo "$userPassword"  | sha256sum > userPassword.txt ; chmod 700 userPassword.txt
 			echo -e "\n\t\t${purple}You have just created an account for user:${nc} $userName."
 			func_menu
 		fi
