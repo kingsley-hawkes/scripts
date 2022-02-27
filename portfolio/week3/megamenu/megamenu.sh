@@ -15,14 +15,13 @@ purple='\033[0;35m'
 #blink='\033[7m'
 
 #check for signed in.
+#if [ "$signedIn" ]; then
+#	exit 0
+#else
+#	./mpc.sh
+#fi
 
-
-if [ "$signedIn" ]; then
-	exit 0
-else
-	./mpc.sh
-fi
-
+#Main menu options. 
 if [ $? = 0 ]; then
 	echo -e "Enter the ${green}number${nc} of the \e[5moption\e[0m you wish to select."
         echo "1. Create a folder."
@@ -39,34 +38,35 @@ elif [ $? = 1 ]; then
 	exit
 fi
 
+#Script that directs to chosen option.
 case $menu_option in
 
 	1)
-		cd ~/bashscripts/portfolio/week3/megamenu/ && ./mfm.sh
+		cd ~/scripts/portfolio/week3/megamenu/ && ./mfm.sh
 	;;
 	
 	2)
-		cd ~/bashscripts/portfolio/week3/megamenu/ && ./mfc.sh
+		cd ~/scripts/portfolio/week3/megamenu/ && ./mfc.sh
 	;;
 
 	3)
-		cd ~/bashscripts/portfolio/week3/megamenu/ && ./msp.sh
+		cd ~/scripts/portfolio/week3/megamenu/ && ./msp.sh
 
 	;;
 	4)
-                cd ~/bashscripts/portfolio/week3/megamenu/ && ./mc.sh
+                cd ~/scripts/portfolio/week3/megamenu/ && ./mc.sh
 
         ;;
 	5)
-                echo "Under Development." #cd ~/bashscripts/portfolio/week3/megamenu/ && ./mmfm.sh
+                echo "Under Development." #cd ~/scripts/portfolio/week3/megamenu/ && ./mmfm.sh
 
         ;;
 	6)
-                cd ~/bashscripts/portfolio/week3/megamenu && ./mfn.sh
+                cd ~/scripts/portfolio/week3/megamenu && ./mfn.sh
 
         ;;
 	7)
-                cd ~/bashscripts/portfolio/week3/megamenu && ./md.sh
+                cd ~/scripts/portfolio/week3/megamenu && ./md.sh
 
         ;;
 	8)
@@ -82,7 +82,7 @@ esac
 
 exit 0 
 
-#  calling script 'path' and then exicuting script after using '&&' was taken from:
+#  calling script 'path' and then executing script after using '&&' was taken from:
 # AnonymousX. (2018, Jun 3). Running scripts from another directory. https://superuser.com/questions/510152/running-scripts-from-another-directory
 
 # Case statement structure addapted from website 'Linuxize.' (2019, Nov 22). Bash Case Statement. https://linuxize.com/post/bash-case-statement/
